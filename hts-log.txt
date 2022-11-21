@@ -1,0 +1,27 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 13 Nov 2022 14:48:19 at https://www.dmcg.edu/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.dmcg.edu/ -O1 "C:\Users\RAJAT SINGH\OneDrive\Desktop\Internship myknot\Day20\Web96\Site96" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:51:47	Error: 	"Not Found" (404) at link https://www.dmcg.edu/css/owl.video.play.png (from https://www.dmcg.edu/css/css-plugin-collections.css)
+14:51:47	Error: 	"Not Found" (404) at link https://www.dmcg.edu/css/fonts/flexslider-icon.eot (from https://www.dmcg.edu/css/css-plugin-collections.css)
+14:51:47	Error: 	"Not Found" (404) at link https://www.dmcg.edu/css/fonts/flexslider-icon.eot? (from https://www.dmcg.edu/css/css-plugin-collections.css)
+14:51:47	Error: 	"Not Found" (404) at link https://www.dmcg.edu/css/fonts/flexslider-icon.woff (from https://www.dmcg.edu/css/css-plugin-collections.css)
+14:51:47	Error: 	"Not Found" (404) at link https://www.dmcg.edu/css/fonts/flexslider-icon.ttf (from https://www.dmcg.edu/css/css-plugin-collections.css)
+14:51:47	Error: 	"Not Found" (404) at link https://www.dmcg.edu/css/fonts/flexslider-icon.svg (from https://www.dmcg.edu/css/css-plugin-collections.css)
+14:51:47	Error: 	"Not Found" (404) at link https://www.dmcg.edu/css/font/ytp-regular.eot (from https://www.dmcg.edu/css/css-plugin-collections.css)
+14:51:47	Error: 	"Not Found" (404) at link https://www.dmcg.edu/css/bxslider/images/arrow-left.png (from https://www.dmcg.edu/css/css-plugin-collections.css)
+14:51:47	Error: 	"Not Found" (404) at link https://www.dmcg.edu/css/bxslider/images/arrow-right.png (from https://www.dmcg.edu/css/css-plugin-collections.css)
+14:51:54	Error: 	"Not Found" (404) at link https://www.dmcg.edu/images/megamenu/megamenu-dropdown.jpg (from https://www.dmcg.edu/css/style-main.css)
+14:51:54	Error: 	"Not Found" (404) at link https://www.dmcg.edu/images/testimonials/quote_arrow.png (from https://www.dmcg.edu/css/style-main.css)
+14:51:54	Error: 	"Not Found" (404) at link https://www.dmcg.edu/images/bg/bg11.jpg (from https://www.dmcg.edu/css/style-main.css)
+14:51:54	Warning: 	File not parsed, looks like binary: https://www.dmcg.edu/js/revolution-slider/css/openhand.cur
+14:51:54	Warning: 	File not parsed, looks like binary: https://www.dmcg.edu/js/revolution-slider/css/closedhand.cur
+14:51:55	Error: 	"Not Found" (404) at link https://www.dmcg.edu/publication/ (from https://www.dmcg.edu/research.php?pageid=38&AimofResearch)
+14:51:55	Error: 	"Not Found" (404) at link https://www.dmcg.edu/10.24941/ijcr.39444.08.2020 (from https://www.dmcg.edu/research.php?pageid=42&Publications)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 10 seconds : 633 links scanned, 618 files written (93801691 bytes overall) [87267802 bytes received at 349071 bytes/sec], 8446596 bytes transferred using HTTP compression in 191 files, ratio 20%, 11.5 requests per connection
+(14 errors, 2 warnings, 0 messages)
